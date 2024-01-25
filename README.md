@@ -1,5 +1,7 @@
 # Confetti's Cube Generator
 
+![image](https://github.com/Diogojfbraga/Celebration-Cubes/assets/67931865/9c3d7198-878f-46c2-a15a-5830a4e28567)
+
 This project is a visually dynamic cube generator with added confetti effects. The cubes are arranged in a grid, and their heights, colors, and movements are controlled by sliders. Additionally, confetti elements fall and rotate around the scene, adding a festive touch.
 
 ## Features
